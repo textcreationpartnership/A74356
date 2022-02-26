@@ -1,0 +1,188 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An act of Parliament for the removing of obstructions in the sale of the honors, manors &amp; lands of the late King, Queen and Prince. Die Lunæ, 18⁰ Februarii, 1649. Ordered by the Parliament, that this act be forthwith printed and published. Hen: Scobell, Cleric. Parliamenti.</title>
+            <author>England and Wales.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1650</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A74356</idno>
+            <idno type="STC">Thomason E1060_79</idno>
+            <idno type="STC">ESTC R208805</idno>
+            <idno type="EEBO-CITATION">99867728</idno>
+            <idno type="PROQUEST">99867728</idno>
+            <idno type="VID">120051</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A74356)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 120051)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 157:E1060[79])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An act of Parliament for the removing of obstructions in the sale of the honors, manors &amp; lands of the late King, Queen and Prince. Die Lunæ, 18⁰ Februarii, 1649. Ordered by the Parliament, that this act be forthwith printed and published. Hen: Scobell, Cleric. Parliamenti.</title>
+                  <author>England and Wales.</author>
+               </titleStmt>
+               <extent>[2], 685-693 [i.e 12] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by Edward Husband and John Field, printers to the Parliament of England,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1649 [i.e. 1650]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>On 6K2: the last word of first line of text: 'this'; first word of line below initial: 'sent'; last word of last full line of text: 'sale'. The title page is in the same setting as the edition with these indicators 'this this sale'.</note>
+                  <note>Also issued as part of a through-paged folio set with a table for the entire set added.</note>
+                  <note>Signatures: 6K⁴ 6L² .</note>
+                  <note>Ornament on t.p.; initial letter; some text in black letter.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Confiscations and contributions --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:120051:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 44 -->
+            <pb facs="tcp:120051:2"/>
+            <!-- PDF PAGE 45 -->
+            <pb facs="tcp:120051:2" rendition="simple:additions"/>
+            <!-- PDF PAGE 45 -->
+            <p>AN ACT OF PARLIAMENT FOR The Removing of Obſtructions in the Sale OF THE HONORS, MANORS &amp; LANDS Of the late King, Queen and Prince.</p>
+            <figure>
+               <figDesc>seal of the Commonwealth</figDesc>
+            </figure>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <opener>
+                           <dateline>
+                              <date>Die Lunae, 18<hi rend="sup">o</hi> Februarii, 1649.</date>
+                           </dateline>
+                        </opener>
+                        <p>ORdered by the Parliament, That this Act be forthwith printed and publiſhed.</p>
+                        <closer>
+                           <signed>Hen: Scobell, Cleric. Parliamenti.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>
+               <hi>London:</hi> Printed by <hi>Edward Huſband</hi> and <hi>John Field,</hi> Printers to the Parlia<g ref="char:EOLhyphen"/>ment of <hi>England.</hi> 1649.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:120051:3"/>
+            <!-- PDF PAGE 46 -->
+            <pb n="685" facs="tcp:120051:3"/>
+            <!-- PDF PAGE 46 -->
+            <head>AN ACT OF PARLIAMENT FOR The Removing of Obſtructions in the Sale of THE HONORS, MANORS and LANDS Of the late King, Queen and Prince.</head>
+            <p>
+               <seg rend="decorInit">B</seg>E it Enacted by this preſent Parliament, and by the Authority of the ſame, That the perſons nominated &amp; appointed to be a Com<g ref="char:EOLhyphen"/>mittee <hi>for Removing Ob<g ref="char:EOLhyphen"/>ſtructions in the Sale of the Lands of the late Deans, and Deans and Chapters,</hi> by an Act of this pre<g ref="char:EOLhyphen"/>ſent Parliament, publiſhed in print the Twen<g ref="char:EOLhyphen"/>tieth of <hi>June,</hi> One thouſand ſix hundred forty and nine, or any five or more of them, ſhall be, and by the Authority aforeſaid are conſtituted and intruſted to be a Committee <hi>for Removing Ob<g ref="char:EOLhyphen"/>ſtructions in the Sale of the Honors, Manors, Caſtles, Parks, Lands, and other Hereditaments, ſometimes be<g ref="char:EOLhyphen"/>longing to the late King, Queen and Prince, and to every and any of them,</hi> in purſuance of an Act of Par<g ref="char:EOLhyphen"/>liament for ſale of the ſaid Lands, entituled, <hi>An Act of the Commons in Parliament aſſembled, for ſale
+<pb n="686" facs="tcp:120051:4"/>
+                  <!-- PDF PAGE 47 -->of the Honors, Manors and Lands heretofore belonging to the late King, Queen and Prince.</hi> And be it En<g ref="char:EOLhyphen"/>acted by the Authority aforeſaid, That the ſaid Committee be hereby authorized and intruſted to order, determine and put in execution, All and every the Powers and Authorities mentioned and contained in an Ordinance of Parliament of the <hi>21</hi> of <hi>November,</hi> One thouſand ſix hun<g ref="char:EOLhyphen"/>dred forty and eight, (in order to the removing of Obſtructions in the ſale of the ſaid Honors, Manors, Lands and premiſes) as fully to all intents and purpoſes, as the Committee named in the ſaid Ordinance might have done, in order to the removing of Obſtructions in the ſale of the Lands of the late Archbiſhops and Biſhops; And the Truſtees, Contractors, Treaſurers, Comptroller, Surveyors, and all other perſons imployed in and about the ſale of the ſaid Ho<g ref="char:EOLhyphen"/>nors, Manors and Premiſes, are required and enjoyned to obſerve the Orders and Directions of the ſaid Committee, in the execution of the Power and Authority hereby granted unto them. And be it Enacted by the Authority aforeſaid, That all and every the immediate Tenants of the ſaid Honors, Manors, Lands, and other Hereditaments, and of every or any of them, who ſhall become Purchaſers of any part of the premiſes as immediate Tenants, ſhall pay one full moyety of the values of their reſpective Purchaſes in Money, as the ſame ſhall be va<g ref="char:EOLhyphen"/>lued in their reſpective Contracts; and ſhall pay the other moyety of their reſpective Purchaſes, in ſuch Debentures as the Truſtees for ſale of the ſaid Lands are authorized to allow of, and accept in payment for the ſaid Lands; The ſaid payment to be made at ſuch times as by the ſaid Act for ſale of the ſaid Lands is limited and ap<g ref="char:EOLhyphen"/>pointed.
+<pb n="687" facs="tcp:120051:4"/>
+               <!-- PDF PAGE 47 -->And be it further Enacted by the autho<g ref="char:EOLhyphen"/>rity aforeſaid, That all and every perſon and perſons who ſhall become purchaſers of any the Lands and premiſes in the ſaid Act mentioned, as imediate tenants or aſſignees, ſhall upon ſign<g ref="char:EOLhyphen"/>ing his and their reſpective Contracts pay down in ready money, in part of his and their purchaſe; the ſum of eight pence for every pound that the ſaid reſpective Purchaſes ſhall amount unto, ac<g ref="char:EOLhyphen"/>cording to the valuation agreed upon in their Contracts reſpectively; that is to ſay, unto the Treaſurers named in the ſaid Act, one peny for the uſe of themſelves towards their Salaries; unto the ſaid Treaſurers, one other peny to<g ref="char:EOLhyphen"/>wards the Salaries appointed unto the other Officers named in the ſaid Act, and unto the Contractors named in the ſaid Act, for the uſe of them the ſaid Contractors; and of the ſaid Truſtees towards their Salaries, ſix pence equally to be divided between them: And where<g ref="char:EOLhyphen"/>as by the ſaid recited Act, it is provided, that the allowances due to the Truſtees, Contractors, Treaſurers, Comptroller of Entries, Regi<g ref="char:EOLhyphen"/>ſter of Debentures, and the charges of Sur<g ref="char:EOLhyphen"/>veying, and all other incident charges ſhall be paid and defrayed out of ſuch Moneys as ſhall come in by ſale of the Premiſes, and by the Rents, Iſſues and Profits of the Premiſes, while the ſame remain unſold. And it is there<g ref="char:EOLhyphen"/>in further provided, That if money do not come in to ſatisfie the Salaries allowed by the ſaid Act to the ſaid Contractors, Truſtees and Treaſurers, That then they ſhall and may have part of the Premiſes in lieu of the ſaid Sala<g ref="char:EOLhyphen"/>ries, as it ſhall be Ordered by authority of Par<g ref="char:EOLhyphen"/>liament. And whereas by another Act, entitu<g ref="char:EOLhyphen"/>led, <hi>An Act with further Inſtructions to the Treaſurers,
+<pb n="688" facs="tcp:120051:5"/>
+                  <!-- PDF PAGE 48 -->Truſtees, Contractors, Regiſter, Surveyors, and other perſons imployed in the Sale of the Premiſes, and for the ſtating of Accompts,</hi> The ſaid Truſtees and Trea<g ref="char:EOLhyphen"/>ſurers are appointed to allow and pay unto the Committee for Accompts in the ſaid laſt re<g ref="char:EOLhyphen"/>cited Act named, ſuch Salaries and Allowan<g ref="char:EOLhyphen"/>ces, as to the ſaid Truſtees, with the approbati<g ref="char:EOLhyphen"/>on of the Committee for removing Obſtru<g ref="char:EOLhyphen"/>ctions in the ſale of the ſaid Lands ſhall be thought fit. To the end therefore that the ſaid Salaries, Allowances, and incident char<g ref="char:EOLhyphen"/>ges may be duly paid and ſecured, according to the true intent of the ſaid recited Act; and that the Officers and Soldiers (who ſhall become Purchaſers of the premiſes, or any part thereof, as Original Creditors in ſatisfaction of their Arrears) ſhall not be enjoyned to pay any mo<g ref="char:EOLhyphen"/>ney upon their Contracts, towards the ſatisfy<g ref="char:EOLhyphen"/>ing of the ſaid Salaries, for ſo much of their reſpective purchaſes as their Original debts amount unto, Be it Enacted by the authority aforeſaid, That all and every ſum and ſums of money which ſhall be advanced by ſale of the premiſes, or any part thereof, unto immedi<g ref="char:EOLhyphen"/>ate Tenants or Aſsignees, or unto any Pur<g ref="char:EOLhyphen"/>chaſer who ſhall pay all or any part of the price of his purchaſe in ready money; and like<g ref="char:EOLhyphen"/>wiſe all the Rents, Iſſues and Profits of the premiſes, while the ſame remain unſold, ſhall be, and hereby are declared and appointed to be imployed in the firſt place for the payment and diſcharging of the ſaid Salaries, Allowances, and incident Charges in the recited Acts men<g ref="char:EOLhyphen"/>tioned; and that ſo much thereof as is allowed to the ſaid Truſtees and Contractors, by ver<g ref="char:EOLhyphen"/>tue of this and the ſaid former Acts, ſhall be from time to time equally paid to the ſaid Tru<g ref="char:EOLhyphen"/>ſtees
+<pb n="689" facs="tcp:120051:5"/>
+               <!-- PDF PAGE 48 -->and Contractors: And the ſaid Treaſu<g ref="char:EOLhyphen"/>rers ſhall, and are hereby enabled and required to iſſue out and pay all ſuch money as ſhall be paid unto their Treaſury, by vertue of this or the ſaid former Acts (their own proper Salary de<g ref="char:EOLhyphen"/>ducted) according to ſuch Warrants as they ſhall from time to time receive from the ſaid Truſtees, or any five or more of them, according to the Rules and Directions, and for the ends and purpoſes contained in this preſent and the ſaid former Acts; and the acquittances of the reſpective perſons to whom the ſaid Warrants ſhall be made, ſhall be a good diſcharge to the ſaid Treaſurers; which ſaid Warrants the ſaid Truſtees are authorized and appointed to iſſue out accordingly: And to the end that competent ſecurity for the diſcharging of the ſaid Salaries, Allowances, and other incident Charges (in caſe the ſaid money to be received by Contract, Sale, or by the Rents, Iſſues and Profits of the premiſes fall ſhort) may be provided out of ſome part of the premiſes, ſo as the whole may not be charged therewith, or obſtructed in the ſale thereof, Be it Enacted by the authority aforeſaid, That the ſaid Truſtees in the ſaid Act for ſale of the ſaid Lands named, and the Survivors and Survivor of them, and the Heirs of the Survivor of them, ſhall from hence<g ref="char:EOLhyphen"/>forth ſtand ſeized of thoſe Parks, called <hi>Claren<g ref="char:EOLhyphen"/>don Park,</hi> and <hi>Bowood Park,</hi> alias <hi>Kings Bowood Park</hi> in the County of <hi>Wilts,</hi> and of all the Roy<g ref="char:EOLhyphen"/>alties, Priviledges, Franchiſes, Immunities and Appurtenances to them or either of them belonging, to the uſes, intents and purpoſes following; that is to ſay, That the ſaid Con<g ref="char:EOLhyphen"/>tractors for ſale of the ſaid Lands, or any five or more of them ſhall and may contract for; and
+<pb n="690" facs="tcp:120051:6"/>
+               <!-- PDF PAGE 49 -->that the ſaid Truſtees, or any five or more of them, ſhall and may make ſale of all Coppices, Cord<g ref="char:EOLhyphen"/>woods, Pollards and Vnder-woods, growing or being upon the ſaid two Parks, or either of them (all Timber-Trees only excepted) to ſuch perſon and perſons as they ſhall think fit, at the beſt and moſt improved Rates they can get for the ſame for ready money, to be paid to the Treaſurers in the ſaid Act named, towards the ſatisfying and diſcharging of the ſaid Salaries, Allowances, and incident char<g ref="char:EOLhyphen"/>ges; and in caſe the money which ſhall be raiſed be<g ref="char:EOLhyphen"/>fore the firſt day of <hi>February,</hi> which ſhall be in the year of our Lord God <hi>1650.</hi> by ſale of the ſaid Woods and Vnder-woods, and by ſale of other the ſaid Manors, Lands and premiſes, ſhall not be ſufficient to pay and diſcharge the ſaid Salaries, Allowances and incident charges; and that the ſame ſhall not by that time be ſupplied by Order of Parliament in ready money, That then the ſaid Contractors, or any five or more of them, ſhall and may Contract for; and that the ſaid Tru<g ref="char:EOLhyphen"/>ſtees or any five or more of them, ſhall and may make ſale of the ſaid two Parks, with all their and either of their appurtenances (except ſuch Timber-Trees fit for the uſe and ſervice of the Navy, as are excepted from Sale in the firſt re<g ref="char:EOLhyphen"/>cited Act for ſale of the ſaid Lands) to ſuch perſon and perſons, Bodies Politique or Corporate, as they ſhall think fit, at the beſt and moſt improved Rates they can poſſibly get for the ſame in rea<g ref="char:EOLhyphen"/>dy money, to be paid to the ſaid Treaſurers in the ſaid firſt recited Act named, for the uſes and purpoſes aforeſaid, Any Clauſe or Article in the ſaid former Acts or any of them to the contra<g ref="char:EOLhyphen"/>ry notwithſtanding. Provided always, and be it by the authority aforeſaid further Enacted, Ordained and Declared, That this Act, or any
+<pb n="691" facs="tcp:120051:6"/>
+               <!-- PDF PAGE 49 -->thing therein contained, ſhall not extend, nor ſhall be taken, deemed, intended or conſtrued to be, or extend to the making void, taking a<g ref="char:EOLhyphen"/>way, extinguiſhing, or any way to the preju<g ref="char:EOLhyphen"/>dicing or impairing of the Right, Title, Eſtate, Intereſt and Profits of <hi>Philip</hi> Earl of <hi>Pembrokè</hi> and <hi>Montgomery,</hi> or of any other perſon or per<g ref="char:EOLhyphen"/>ſons, of, in and to the Cuſtody, Lieutenantry, Herbage, Pannage, and other Profits, Offices and Perqueſites, of, in and to <hi>Clarendon</hi> and <hi>Bo<g ref="char:EOLhyphen"/>wood</hi> aforeſaid, or either of them, by vertue of any lawful Grant, Patent, Vſage or Cuſtom; but that the ſaid Right and Title of the ſaid Earl and his Heirs-Male, and of all other perſons, of, in and to the ſame, or either of them, or any part of them; or either of them, of, in and to the Offices, Profits, commodities and advantages thereof, ſhall remain, continue, and be as free and clear, and as freely and clearly preſerved in as full and ample maner, as if this Act had never been made, Any thing herein to the contrary in any wiſe notwithſtanding. And be it further Enacted, That if all the ſaid Sa<g ref="char:EOLhyphen"/>laries, Allowances and incident Charges ſhall be paid before the ſaid Firſt of <hi>February,</hi> which ſhall be in the year of our Lord, One thouſand ſix hundred and fifty, That then the ſaid two Parks ſhall be ſold for the payment of the Ar<g ref="char:EOLhyphen"/>rears of the Soldiers, according to the direction of the ſaid former Act: And whereas by the ſaid recited Act for ſale of the ſaid Lands, It is Ordained, That the ſaid Truſtees ſhall call in ſuch Debentures as were heretofore given out for Arrears of Soldiers in the ſaid Act ſpecified, by ſuch certain day as they ſhould think fit, not exceeding ſix Moneths from the firſt of <hi>July,</hi> One thouſand ſix hundred forty and nine,
+<pb n="692" facs="tcp:120051:7"/>
+               <!-- PDF PAGE 50 -->and ſhould cancel the ſame, and in ſtead thereof ſhould give out new Debentures or Bills, as by the ſaid Act is at large expreſſed; Be it further Enacted, That the ſaid Truſtees ſhall and may appoint further time for the bringing in of the ſaid Debentures (if they ſee cauſe) not exceeding ſix Moneths from the firſt day of <hi>January,</hi> One thouſand ſix hundred forty and nine; And ſhall proceed to give out new Debentures or Bills in ſtead thereof, as by the former Act is directed: Which new Debentures or Bills ſhall be good and valid in the Law to charge the Common<g ref="char:EOLhyphen"/>wealth, as if the ſame were given out according to the Direction of the ſaid firſt recited Act. And be it further Enacted by the Authority aforeſaid, That (for the more ſpeedy ſale of the premiſes, and preſervation of the pre-emption intended by the former Act unto immediate Tenants and Original Creditors) the Contractors in the former Act named, ſhall and may expoſe the ſaid reſpective Honors, Manors, Lands and pre<g ref="char:EOLhyphen"/>miſes to ſale, and make publication thereof upon ſuch days and times, and in ſuch maner as they ſhall conceive may tend moſt to publique advan<g ref="char:EOLhyphen"/>tage, and due ſatisfaction of the Arrears of the Soldiers; and that the time of pre-emption given unto immediate Tenants and Original Creditors by the ſaid former Act, ſhall begin from the reſpective days of expoſing to ſale the ſaid reſpective Honors, Manors, Parks, Lands, and other the premiſes and publication thereof as aforeſaid. And be it further Enacted, That the Commiſſioners for the Navy ſhall have fur<g ref="char:EOLhyphen"/>ther time, until the firſt day of <hi>May,</hi> One thou<g ref="char:EOLhyphen"/>ſand ſix hundred and fifty, for the ſurveying and marking of the Timber Trees excepted from ſale, and reſerved for the uſe of the Navy; and
+<pb n="693" facs="tcp:120051:7"/>
+               <!-- PDF PAGE 50 -->that Surveyors for that ſervice be indifferently appointed and choſen by the ſaid Truſtees and the ſaid Commiſſioners of the Navy, who upon Oath (which the ſaid Truſtees have hereby power to adminiſter) are required to ſurvey and mark the ſaid Timber, according to the true in<g ref="char:EOLhyphen"/>tent and meaning of the ſaid former Act, and according to ſuch further Rules and Inſtructi<g ref="char:EOLhyphen"/>ons as are or ſhall be agreed upon by the ſaid Truſtees and the ſaid Commiſſioners of the Navy; and (in ſuch particulars wherein they cannot agree) according to ſuch Rules and In<g ref="char:EOLhyphen"/>ſtructions as they ſhall receive from the Com<g ref="char:EOLhyphen"/>mittee for the removing Obſtructions in the ſale of the ſaid Lands.</p>
+         </div>
+      </body>
+      <back>
+         <div type="license">
+            <opener>
+               <dateline>
+                  <date>Die Lunae, 18 Februarii, 1649.</date>
+               </dateline>
+            </opener>
+            <p>ORdered by the Parliament, That this Act be forthwith printed and publiſhed.</p>
+            <closer>
+               <signed>Hen: Scobell, Cleric. Parliamenti.</signed>
+            </closer>
+         </div>
+      </back>
+   </text>
+</TEI>
